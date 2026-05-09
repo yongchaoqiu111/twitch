@@ -1,0 +1,191 @@
+[
+  {
+    "name": "api_token",
+    "value": "7d0fef76bd62295ac3db67c45b806a51",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1809767203.658
+  },
+  {
+    "name": "auth-token",
+    "value": "keihxmmrydnqa9yy4jxjtbykuzkb96",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1812532010.0
+  },
+  {
+    "name": "bits_sudo",
+    "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxNDk1Mjk3MzUwIiwiYXVkIjpbInN1ZG8iLCJiaXRzIl0sImV4cCI6MTc3ODkyMjQwNCwiaWF0IjoxNzc4MzE3NjA0fQ==.WN7mC0iG1nYGPG1TmhTEKDMP8349yrOOaF8e40YOactEWfqlOt9W9eCztqUTZ7dgDKnbaopdra2cM_YLfeTJGw==",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1778922403.658
+  },
+  {
+    "name": "experiment_overrides",
+    "value": "{%22experiments%22:{}%2C%22disabled%22:[]}",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1812531813.0
+  },
+  {
+    "name": "KP_UIDZ_1",
+    "value": "0acjEFhYvpqaee48aW2N4R5HWZkCZSnxTxp7v0Vfo6VimIyWqJUrmwwS2G350ZN95n3Spr2WHuaCWkt87cIfPRzS5GFLe1N6yo44gPfuozE1paoFbZdThyvtRaJOvikEB7NiIwNZxBSv3aoKKJlbOqATok3qbVidko29V4R9jQT",
+    "domain": "gql.twitch.tv",
+    "path": "/",
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None",
+    "expires": 1778403822.382
+  },
+  {
+    "name": "KP_UIDZ_1-ssn",
+    "value": "0acjEFhYvpqaee48aW2N4R5HWZkCZSnxTxp7v0Vfo6VimIyWqJUrmwwS2G350ZN95n3Spr2WHuaCWkt87cIfPRzS5GFLe1N6yo44gPfuozE1paoFbZdThyvtRaJOvikEB7NiIwNZxBSv3aoKKJlbOqATok3qbVidko29V4R9jQT",
+    "domain": "gql.twitch.tv",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1778403822.382
+  },
+  {
+    "name": "last_login",
+    "value": "2026-05-09T09:06:44Z",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None",
+    "expires": 1809767203.658
+  },
+  {
+    "name": "login",
+    "value": "hazeezhq8qsfxb",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1812532010.0
+  },
+  {
+    "name": "name",
+    "value": "hazeezhq8qsfxb",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None",
+    "expires": 1809767203.658
+  },
+  {
+    "name": "persistent",
+    "value": "1495297350%3A%3Ajz6f3w8jkm0opl8pv7fh6behmrvwte",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1809767203.658
+  },
+  {
+    "name": "server_session_id",
+    "value": "5df48d1f86854a7e9a4433a6ebdfddd6",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "spare_key",
+    "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Bhc3Nwb3J0LnR3aXRjaC50diIsInN1YiI6IltcIjE0OTUyOTczNTBcIl0iLCJhdWQiOiJicnV0ZS1mb3JjZS1wcm90ZWN0aW9uIiwiZXhwIjoxNzkzODY5NjA0LCJpYXQiOjE3NzgzMTc2MDQsIm5vbmNlIjoiOVN5TDkySkRRRjJpTFhCZlBvYmhUMzk0R2RlVms5SF9DLXNRMGN5MENXOD0ifQ%3D%3D._dYuKzwGjt9GV71N3fM_WofB92oKez-Hkrj6BZXx_pidPbDDzqNQVQ-HI4BqVEN3x3SO0mv4x2-2rsBuCSP5SA%3D%3D",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1793869603.658
+  },
+  {
+    "name": "sudo",
+    "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxNDk1Mjk3MzUwIiwiYXVkIjpbInN1ZG8iXSwiZXhwIjoxNzc4MzIxMjA0LCJpYXQiOjE3NzgzMTc2MDR9.NAXOcW2pvpBzFzJ_LCNXd3-YzWFNrA5I6mcuyNO0_043rMgDX9xT8bvQOjtvwzOVkEsUOMaqRRYt76UDDn92bQ==",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1778321203.658
+  },
+  {
+    "name": "twilight-user",
+    "value": "{%22authToken%22:%22keihxmmrydnqa9yy4jxjtbykuzkb96%22%2C%22displayName%22:%22hazeezhq8qsfxb%22%2C%22id%22:%221495297350%22%2C%22login%22:%22hazeezhq8qsfxb%22%2C%22roles%22:{%22isStaff%22:false}%2C%22version%22:2}",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1812532010.0
+  },
+  {
+    "name": "twitch.lohp.countryCode",
+    "value": "HK",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None",
+    "expires": 1812013618.503
+  },
+  {
+    "name": "UID",
+    "value": "137740e73a89b6b593505521777650730",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1812013953.663
+  },
+  {
+    "name": "unique_id",
+    "value": "53e0e04323d54865b72ddf0e1fc031bd",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1812532006.085
+  },
+  {
+    "name": "unique_id_durable",
+    "value": "53e0e04323d54865b72ddf0e1fc031bd",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1812532006.085
+  },
+  {
+    "name": "XID",
+    "value": "137740e73a89b6b593505521777650730",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "expires": 1812013953.663
+  }
+]

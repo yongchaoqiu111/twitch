@@ -1,0 +1,164 @@
+[
+  {
+    "name": "server_session_id",
+    "value": "337fe5a898ac4869b43024356250ca13",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "unique_id",
+    "value": "91924b371eb949b49171517bb1429513",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": 1812533619.17201,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "unique_id_durable",
+    "value": "91924b371eb949b49171517bb1429513",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": 1812533619.172087,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "twitch.lohp.countryCode",
+    "value": "HK",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": 1812015219.172137,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "experiment_overrides",
+    "value": "{%22experiments%22:{}%2C%22disabled%22:[]}",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": 1812533620,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "api_token",
+    "value": "twilight.216c100e35564e4cb7fdd2885fca84ab",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": 1812533620,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ad-id",
+    "value": "AyfonFJcJU-TmXN89O6hfvs",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "expires": 1798796027.087172,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ad-privacy",
+    "value": "0",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "expires": 1812879227.087322,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "UID",
+    "value": "1F119a677349b5e20f45f641778319227",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "expires": 1812015227.148324,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "XID",
+    "value": "1F119a677349b5e20f45f641778319227",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "expires": 1812015227.148426,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://twitch.tv",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "ga__15_abel-ssn",
+    "value": "0bjJWH42Q5AHLpabR0Y6XZIUVs4kStOCHnpNhNkAfgMGG016IgAuo0cL2XxxMx5770AlwmI57uNp21NGLd7QKUEr8WM9nxA2qCsXkxlGXPN7Xv880VqKwYCB7SIr25sQd5jWz54bRNU0aS38c64IVzVHuIM7DvHzaemix9LIqv5",
+    "domain": "passport.twitch.tv",
+    "path": "/",
+    "expires": 1778405628.234732,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ga__15_abel",
+    "value": "0bjJWH42Q5AHLpabR0Y6XZIUVs4kStOCHnpNhNkAfgMGG016IgAuo0cL2XxxMx5770AlwmI57uNp21NGLd7QKUEr8WM9nxA2qCsXkxlGXPN7Xv880VqKwYCB7SIr25sQd5jWz54bRNU0aS38c64IVzVHuIM7DvHzaemix9LIqv5",
+    "domain": "passport.twitch.tv",
+    "path": "/",
+    "expires": 1778405628.234867,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "KP_UIDZ_1-ssn",
+    "value": "0b8ClLkCHNDKw198g0v1s6uTshWrI9CO9qKEB4kNRulTV9Jo7EtPEL70RZCWFmDWyhwXDhqqdrxl2foMAJp5ig4hQBiQx0ExuPM34A7LFv5nZQoxva4Bw1NOYNFkt0QfFmPdozHOQ9NK2T2Am5hbszA47NDrEJ1cjtP5AV2TGSE",
+    "domain": "gql.twitch.tv",
+    "path": "/",
+    "expires": 1778405628.469837,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "KP_UIDZ_1",
+    "value": "0b8ClLkCHNDKw198g0v1s6uTshWrI9CO9qKEB4kNRulTV9Jo7EtPEL70RZCWFmDWyhwXDhqqdrxl2foMAJp5ig4hQBiQx0ExuPM34A7LFv5nZQoxva4Bw1NOYNFkt0QfFmPdozHOQ9NK2T2Am5hbszA47NDrEJ1cjtP5AV2TGSE",
+    "domain": "gql.twitch.tv",
+    "path": "/",
+    "expires": 1778405628.469967,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "KP_UIDz-ssn",
+    "value": "03AokOTWJN9VB8DnjQpQ4VK9kJQLHjZe0Yhg1Jsf4Clxzb6NVZfFZjVukCK6Lxyas3BOAjnqay4U1t7teiUOxBCDfQvQHfDvEsZ7024TLkXGbZs41Ph4ti6utQYVZp6RhBrsZB2idrwtIoKObB9vQoGRpBkPhXclSwmDf4O7EPpMjq",
+    "domain": "gql.twitch.tv",
+    "path": "/",
+    "expires": 1778405628.89913,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "KP_UIDz",
+    "value": "03AokOTWJN9VB8DnjQpQ4VK9kJQLHjZe0Yhg1Jsf4Clxzb6NVZfFZjVukCK6Lxyas3BOAjnqay4U1t7teiUOxBCDfQvQHfDvEsZ7024TLkXGbZs41Ph4ti6utQYVZp6RhBrsZB2idrwtIoKObB9vQoGRpBkPhXclSwmDf4O7EPpMjq",
+    "domain": "gql.twitch.tv",
+    "path": "/",
+    "expires": 1778405628.899224,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
